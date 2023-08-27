@@ -20,5 +20,8 @@ The action is a ndarray with shape (1,) which can take values {0, 1} indicating 
 
 Since the goal is to keep the pole upright for as long as possible, a reward of +1 for every step taken, including the termination step, is allotted.
 
+## Output 
+
+
 
 
