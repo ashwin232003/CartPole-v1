@@ -22,6 +22,8 @@ Since the goal is to keep the pole upright for as long as possible, a reward of 
 
 ## Output 
 
+https://github.com/ashwin232003/CartPole-v1/assets/143198668/632b6958-2452-43a8-b9f6-b879815a1bd6
+
 
 
 
